@@ -13,8 +13,7 @@ go into each Rolltable and uncheck "Display Roll to Chat?"
 ## Issues
 01: Revised Wild Magic Table may error out if the additional tables aren't added
 
-**Resolution**
-add the tables if the entry is blank
+**Resolution:** add the tables if the entry is blank
 
 **Result Type | Result Details | | Weight | Range**
 Entry | RollTable | 01-03: Extreme Wild Magic | 3 | 1-3
