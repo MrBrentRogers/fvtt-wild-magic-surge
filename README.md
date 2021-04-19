@@ -4,9 +4,20 @@ Revised DnD5e Wild Magic Surge Tables for FoundryVTT
 Download and import all modules into world.
 Roll on the **01: Revised Wild Magic Table**
 
-Macro
+## Macros
+
+Public Chat
 > const table = game.tables.entities.find(t => t.name === "01: Revised Wild Magic Table");
 > table.draw();
+
+Blind GM Roll
+> const table = game.tables.entities.find(t => t.name === "01: Revised Wild Magic Table");
+table.draw({ rollMode: CONST.DICE_ROLL_MODES.BLIND });
+
+OR
+
+> game.tables.getName('01: Revised Wild Magic Table').draw({ rollMode: CONST.DICE_ROLL_MODES.BLIND });
+
 
 go into each Rolltable and uncheck "Display Roll to Chat?" 
 
