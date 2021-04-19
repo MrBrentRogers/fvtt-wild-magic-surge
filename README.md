@@ -16,6 +16,9 @@ go into each Rolltable and uncheck "Display Roll to Chat?"
 **Resolution:** add the tables if the entry is blank
 
 **Result Type | Result Details | | Weight | Range**
+
 Entry | RollTable | 01-03: Extreme Wild Magic | 3 | 1-3
+
 Entry | RollTable | 04-09: Moderate Wild Magic | 6 | 4-9
+
 Entry | RollTable | 10-20: Nuisance Wild Magic | 11 | 10-20
