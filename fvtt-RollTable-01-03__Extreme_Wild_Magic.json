@@ -1,0 +1,1420 @@
+{
+  "name": "01-03: Extreme Wild Magic",
+  "sort": 300001,
+  "flags": {
+    "exportSource": {
+      "world": "ept5e",
+      "system": "dnd5e",
+      "coreVersion": "0.7.9",
+      "systemVersion": "1.2.4"
+    }
+  },
+  "img": "icons/svg/d20-grey.svg",
+  "description": "1-3: Extreme Wild Magic",
+  "results": [
+    {
+      "_id": "guhg3Orm4KMsWlJ0",
+      "flags": {},
+      "type": 0,
+      "text": "A fireball explodes with you at the center. You and each creature within 20 feet of you who must make a Dexterity saving throw using your spell save DC, taking 5d6 fire damage on a failed save, or half as much damage on a successful one.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "TXTyU3CrprZqkOIZ",
+      "flags": {},
+      "type": 0,
+      "text": "You recover all your expended spell slots.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "zm2YwSKXJdCZRpgM",
+      "flags": {},
+      "type": 0,
+      "text": "You lose the ability to hear for 1 day.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "tW379O1uKnJ1hyMp",
+      "flags": {},
+      "type": 0,
+      "text": "Each creature within 30 feet of you takes 1d10 necrotic damage. You regain hit points equal to the sum of damage dealt.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "3I7CFwbeZqXOqUOn",
+      "flags": {},
+      "type": 0,
+      "text": "You teleport to an alternate plane, then return to the location where you started after 1 minute.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "aqWDfToAkpTYTlH1",
+      "flags": {},
+      "type": 0,
+      "text": "You transform into a large empty barrel for 1 minute, during which time you considered petrified.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "IEz98ru7V3xrfMxw",
+      "flags": {},
+      "type": 0,
+      "text": "You are at the center of a darkness spell for 1 minute.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "h50K7NiVrrHkxmP8",
+      "flags": {},
+      "type": 0,
+      "text": "You are frightened by the nearest creature until the end of your next turn.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "d1hUS5qAL1snVnJ4",
+      "flags": {},
+      "type": 0,
+      "text": "You are resistant to all damage types for 1 minute.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "wg0l40BQ4WFLrfRA",
+      "flags": {},
+      "type": 0,
+      "text": "A random creature within 60 feet of you is poisoned for 1d4 hours.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ALNwVGw4ZUr2JYBw",
+      "flags": {},
+      "type": 0,
+      "text": "Make a Wisdom saving throw against your own spell save DC. If you fail, you are polymorphed into giant dragonfly for 1 minute.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "xIsPBB2xlYyqgp90",
+      "flags": {},
+      "type": 0,
+      "text": "Up to three creatures you choose within 30 feet of you take 4d10 lightning damage.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "kZavPQBBjDdLpEMT",
+      "flags": {},
+      "type": 0,
+      "text": "You immediately gain 20 temporary hit points.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "chyI5JK8JYcbD1bd",
+      "flags": {},
+      "type": 0,
+      "text": "You teleport up to 60 feet to an unoccupied space that you can see.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "z6EsKI6HjroSbdN8",
+      "flags": {},
+      "type": 0,
+      "text": "You are the center of a silence spell for 1 minute.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "UvSdWsTOsXjdx23L",
+      "flags": {},
+      "type": 0,
+      "text": "You are vulnerable to fiends for 1 hour. Such creatures gain advantage on attack rolls made against you.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Lb80slKUDn8By4it",
+      "flags": {},
+      "type": 0,
+      "text": "For the next day, any time you make an ability check, roll 1d6 and subtract the result.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "noO2gQZpLXluAPvA",
+      "flags": {},
+      "type": 0,
+      "text": "For any spell that requires a saving throw you cast within the next minute, the target gains advantage.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "bn3FaweMLAqriD7D",
+      "flags": {},
+      "type": 0,
+      "text": "The next single target spell you cast within the next minute must target one additional target.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MGnFFtbl4CDzvbCh",
+      "flags": {},
+      "type": 0,
+      "text": "A demon whose CR is equal to your level appears near you. Make a Charisma saving throw against your spell save DC. If you make it, the demon is subservient, otherwise, it is hostile. The demon, if not banished or defeated, vanishes after 1 day.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Q4AcjpczVEmlm1lZ",
+      "flags": {},
+      "type": 0,
+      "text": "For the next minute, every creature within 60 feet of you that hears you speak only hears insults as if you are casting vicious mockery at first level.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "GGQq7zz80dRxnhQ6",
+      "flags": {},
+      "type": 0,
+      "text": "For the next day, you have advantage on the next 2d6 rolls you make where you don't already have advantage.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "dpFPZEDQ6sv2qqbI",
+      "flags": {},
+      "type": 0,
+      "text": "You are protected from Aberrations for 1 day. Such creatures cannot attack you or harm you unless they save a Charisma saving throw against your spell save DC.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "BkeJmTM1RHwEwoWa",
+      "flags": {},
+      "type": 0,
+      "text": "For 1 minute, a duplicate of yourself appears in the nearest open space which can take actions independently, and goes on the same Initiative as you. However, any damage it takes as well as any spell slots or sorcery point it uses applies to you as well.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "O0F7A2DYKQ0XYt2i",
+      "flags": {},
+      "type": 0,
+      "text": "A loud boom emanates from you. All creatures within 15 feet take 2d8 thunder damage and must make a Constitution saving throw against your spell save DC or be deafened for 1 minute.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "d06dz23tvZrK1iNN",
+      "flags": {},
+      "type": 0,
+      "text": "All creatures within 60 feet of you regain 2d8 hit points.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "wghs6OTyij8EWZ0h",
+      "flags": {},
+      "type": 0,
+      "text": "You transform into a marble statue of yourself for 1 minute, during which time you are considered petrified.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "3Hri4L8xGZ7RI0RM",
+      "flags": {},
+      "type": 0,
+      "text": "You are immune to disease for 1 week.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "wDQw6dm33mazUj6R",
+      "flags": {},
+      "type": 0,
+      "text": "You immediately drop to 0 hit points.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "giUJbJUgcV5EXr16",
+      "flags": {},
+      "type": 0,
+      "text": "Make a Wisdom saving throw against your own spell save DC. If you fail, you are transformed into a raven for 1 minute, as if by a polymorph spell.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Ru6rZHK7vgFtmuuU",
+      "flags": {},
+      "type": 0,
+      "text": "You are protected from Beasts for 1 day. Such creatures cannot attack you or harm you unless they save a Charisma saving throw against your spell save DC.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "WZrAR1t1TMfm2y35",
+      "flags": {},
+      "type": 0,
+      "text": "You transform into a stuffed toy resembling yourself for 1 minute, during which time you are considered petrified.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "iGHS9Qxv8st71o7S",
+      "flags": {},
+      "type": 0,
+      "text": "You stand at the center a circular wall of fire with a radius of 15 feet. Any creature in any of the spaces covered by this fire must make a Dexterity saving throw against your spell DC or take 5d8 fire damage. The wall of fire remains for 1 minute.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "SdQR2S3WMzsaekdy",
+      "flags": {},
+      "type": 0,
+      "text": "Choose 1 permanent or triggered effect that has happened to you or somebody else that you’ve received from this chart and remove it, even if it was beneficial.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "CM8Np2HJ9JksRNbZ",
+      "flags": {},
+      "type": 0,
+      "text": "You are vulnerable to Beasts for 1 hour. Such creatures gain advantage when attacking you.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Xara89KkPy59KDvX",
+      "flags": {},
+      "type": 0,
+      "text": "You permanently lose the ability to smell. This sense can be restored with a spell that removes curses such as remove curse.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YukmX3wdrQ5TScri",
+      "flags": {},
+      "type": 0,
+      "text": "You are vulnerable to Celestials for 1 hour. Such creatures gain advantage when attacking you.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        37,
+        37
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "z0a1pu2hiwCr96Nx",
+      "flags": {},
+      "type": 0,
+      "text": "Make a Wisdom saving throw against your spell save DC. If you fail, you are transformed into a cat for 1 minute, as if by a {5e|Polymorph}} spell.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        38,
+        38
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "y8YyF4vo5sbc6mvF",
+      "flags": {},
+      "type": 0,
+      "text": "You are vulnerable to Plants for 1 hour. Such creatures gain advantage when attacking you.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        39,
+        39
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "HmCZoMAeOB1XA3Pj",
+      "flags": {},
+      "type": 0,
+      "text": "You gain the service of an arcane eye for 1 hour that does not require concentration.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        40,
+        40
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "VnuGFQ3C8PtyTbKJ",
+      "flags": {},
+      "type": 0,
+      "text": "You are protected from Celestials for 1 day. Such creatures cannot attack you or harm you unless they succeed on a Charisma saving throw against your spell save DC.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        41,
+        41
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "rWv0NVUkluRHxreZ",
+      "flags": {},
+      "type": 0,
+      "text": "All your allies within 20 feet of you gain a +2 bonus to their AC for 1 minute.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        42,
+        42
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "VrVdCUXhlbBLGuqc",
+      "flags": {},
+      "type": 0,
+      "text": "3d6 random gems appear near you, worth 50gp each.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        43,
+        43
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "5H2NnU0JT2nsSGC3",
+      "flags": {},
+      "type": 0,
+      "text": "All allies within 20 feet of you gain a +2 bonus to attack and damage rolls on any melee weapon attack they make within the next minute.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        44,
+        44
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "S8YVOfMBF7M4Yo8k",
+      "flags": {},
+      "type": 0,
+      "text": "For 2d6 days, you glow bright yellow. You have disadvantage on Stealth checks and anyone trying to perceive you has advantage on their Perception check.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        45,
+        45
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "i0MPImppWHstC5KW",
+      "flags": {},
+      "type": 0,
+      "text": "You stand at the center a circular wall of force with a radius of 15 feet. Any creature in any of the spaces covered by this wall must make a Dexterity saving throw against your spell DC or take 5d8 force damage. The wall remains for 1 minute.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        46,
+        46
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "oyPAfDUpZBx6RKY0",
+      "flags": {},
+      "type": 0,
+      "text": "All creatures within 20 feet of you are knocked prone.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        47,
+        47
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "VlkHuEeXpeumh7e1",
+      "flags": {},
+      "type": 0,
+      "text": "You are vulnerable to Aberrations for 1 hour. Such creatures gain advantage when attacking you.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        48,
+        48
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "SLXLKGVvF1D0Au2y",
+      "flags": {},
+      "type": 0,
+      "text": "For the next day, you are in the Border Ethereal near the location you were last in.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        49,
+        49
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "6oHfkszAFbhzMDPD",
+      "flags": {},
+      "type": 0,
+      "text": "All allies within 20 feet of you gain a +2 bonus to attack and damage rolls on any ranged weapon attack they make within the next minute.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        50,
+        50
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "QbuAoXQgVXna1AQp",
+      "flags": {},
+      "type": 0,
+      "text": "You are at the center of a 10-foot radius antimagic field that negates all magic equal to or less than your level for 1 hour and does not require concentration.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        51,
+        51
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "KWUe9waPRYC9wzVq",
+      "flags": {},
+      "type": 0,
+      "text": "Make a Wisdom saving throw against your spell save DC. If you fail, you are transformed into a wolf for 1 minute, as if by a polymorphspell.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        52,
+        52
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "wJg1AxJklDeQyilK",
+      "flags": {},
+      "type": 0,
+      "text": "You are protected from Elementals for one day. Such creatures cannot attack you or harm you unless they succeed on a Charismasaving throw against your spell save DC.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        53,
+        53
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "pnTp9ZTxCrpqjsM5",
+      "flags": {},
+      "type": 0,
+      "text": "All of your hair permanently falls out. Only a spell such as remove curse can end this effect.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        54,
+        54
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "U1S67oWk9oM9cuok",
+      "flags": {},
+      "type": 0,
+      "text": "You gain the ability to speak one new language of your choice. However, you lose the ability to speak one language you already know.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        55,
+        55
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "rU3QPOJ6FlEM5Bpq",
+      "flags": {},
+      "type": 0,
+      "text": "A 30-foot cube hypnotic pattern appears with you at the center. All creatures within the pattern must succeed on a Wisdom saving throw or fall asleep for 1 minute or until they take damage.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        56,
+        56
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "cbbvUOcRsCyXBRST",
+      "flags": {},
+      "type": 0,
+      "text": "You permanently forget one cantrip. A spell such as remove cursecan restore your memory.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        57,
+        57
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "i9y1BeIooFOZPLkV",
+      "flags": {},
+      "type": 0,
+      "text": "You immediately take 2d10 psychic damage.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        58,
+        58
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "etjYZVlQR2SQJJ2t",
+      "flags": {},
+      "type": 0,
+      "text": "You are vulnerable to Undead for 1 hour. Such creatures gain advantage when attacking you.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        59,
+        59
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "oI1HFByIErDQsp4g",
+      "flags": {},
+      "type": 0,
+      "text": "You transform into an iron statue of yourself for 1 minute, during which time you are considered petrified.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        60,
+        60
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "duLvAV1GkEFYsHgO",
+      "flags": {},
+      "type": 0,
+      "text": "You gain an additional spell slot of your highest level for 1 week.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        61,
+        61
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "VAA0MwnDjg4qyEJf",
+      "flags": {},
+      "type": 0,
+      "text": "If you die within the next minute, you come back to life as if by the reincarnate spell.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        62,
+        62
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "8vyyNpyauUvEMXrx",
+      "flags": {},
+      "type": 0,
+      "text": "You permanently gain one spell slot of one level below your highest-level spell slot, but lose one 1st-level spell slot. A spell such as remove curse can end this effect.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        63,
+        63
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "D2PWqL7OsJtAmlUR",
+      "flags": {},
+      "type": 0,
+      "text": "All creatures that can perceive you must make a Wisdom saving throw against your spell save DC or be frightened of you.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        64,
+        64
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "tzEJTetIxUh6LV5v",
+      "flags": {},
+      "type": 0,
+      "text": "You are vulnerable to Elementals for 1 hour. Such creatures gain advantage when attacking you.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        65,
+        65
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "5PpgxVWllFbyA2ZJ",
+      "flags": {},
+      "type": 0,
+      "text": "You are protected from Fey for 1 day. Such ceatures cannot attack you or harm you unless they succeed on a Charisma saving throw against your spell save DC.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        66,
+        66
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "kShPhfhOslvIJrQL",
+      "flags": {},
+      "type": 0,
+      "text": "You gain the service of an arcane sword that does not require concentration until your next short or long rest.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        67,
+        67
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "3GUa41apAawAjtxF",
+      "flags": {},
+      "type": 0,
+      "text": "You permanently gain one cantrip. A spell such as remove curse can end this effect.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        68,
+        68
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Vant60FxZOJlz9AF",
+      "flags": {},
+      "type": 0,
+      "text": "All allies within 20 feet of you get gain a -2 penalty on attack and damage rolls for any melee attack they make in the next minute.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        69,
+        69
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "iKMCviDjvW2usFPi",
+      "flags": {},
+      "type": 0,
+      "text": "All allies within 20 feet of you heal up to 3d8 hit points.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        70,
+        70
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MKmv1DPDsRfAx1hC",
+      "flags": {},
+      "type": 0,
+      "text": "You lose the ability to see for 1 day. During this time, you have the blinded condition.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        71,
+        71
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "oDatExg18cBgXyXK",
+      "flags": {},
+      "type": 0,
+      "text": "You gain the service of a phantom steed for 1 week.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        72,
+        72
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "pTr3j2R58yBDNeoP",
+      "flags": {},
+      "type": 0,
+      "text": "Make a Constitution saving throw against your spell save DC. If you fail, you are stunned for 1 minute.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        73,
+        73
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "U4Sy8WXnSf9GLYi6",
+      "flags": {},
+      "type": 0,
+      "text": "You transform into a stone statue of yourself for 1 minute, during which time you are considered petrified.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        74,
+        74
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "SLnTrWvXLWed3par",
+      "flags": {},
+      "type": 0,
+      "text": "All creatures within 20 feet of you, including you, must make a Dexterity save against your spell save DC or be affected by a faerie fire spell.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        75,
+        75
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "XjARTLx1LRayDy3z",
+      "flags": {},
+      "type": 0,
+      "text": "Permanently increase one ability score of your choice by 1 point. Permanently decrease a different ability score of your choice by 1 point. A spell such as remove curse can end this effect.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        76,
+        76
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "tvoE4mUgn4LJgzi4",
+      "flags": {},
+      "type": 0,
+      "text": "You gain proficiency in one tool or weapon type you don’t already have for 1 day.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        77,
+        77
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "JTbqTmRPvXBK2NdL",
+      "flags": {},
+      "type": 0,
+      "text": "Make a Wisdom saving throw against your spell save DC. If you fail, you are transformed into a giant spider for 1 minute, as if by the polymorph spell.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        78,
+        78
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "pPGpgQs1HKIGZcNV",
+      "flags": {},
+      "type": 0,
+      "text": "Gain the sympathy effects of the antipathy/sympathy spell for 3d6 days.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        79,
+        79
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "hrC4IsIb9WUVwyhI",
+      "flags": {},
+      "type": 0,
+      "text": "You are protected from Fiends for one day. Such reatures cannot attack you or harm you unless they succeed on a Charisma saving throw against your spell save DC.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        80,
+        80
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "qEXLKnArKzm2P31c",
+      "flags": {},
+      "type": 0,
+      "text": "All allies within 20 feet of you gain a -2 penalty to attack and damage rolls for any ranged attack they make within the next minute.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        81,
+        81
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "vrxGlZ8xiPd1zOgH",
+      "flags": {},
+      "type": 0,
+      "text": "For one minute, any spell with a casting time of 1 action can be cast as a bonus action.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        82,
+        82
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "cPUnEYBQLqcR0swu",
+      "flags": {},
+      "type": 0,
+      "text": "Make a Wisdom saving throw against your spell save DC. If you fail, you are transformed into a giant rabbit for 1 minute, as if by the polymorph",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        83,
+        83
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "2zUBldRutT3kU7ch",
+      "flags": {},
+      "type": 0,
+      "text": "The next time you cast a spell, do not roll on this chart.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        84,
+        84
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "3ku3SlLCH2JGBzRC",
+      "flags": {},
+      "type": 0,
+      "text": "For the next day, you gain proficiency in all skills that you are not already proficient in.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        85,
+        85
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "EI6S5cCwA5kbl39q",
+      "flags": {},
+      "type": 0,
+      "text": "The next time you cast a spell, roll twice on this chart. Both effects will apply.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        86,
+        86
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "XNhZp5ixMr7AIvnR",
+      "flags": {},
+      "type": 0,
+      "text": "You are vulnerable to Fey for 1 hour. Such creatures gain advantagewhen attacking you.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        87,
+        87
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "0nBc6vel9MqHhYcE",
+      "flags": {},
+      "type": 0,
+      "text": "You transform into an empty wooden chest for 1 minute, during which time you are considered petrified.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        88,
+        88
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "pxY0ARyCr3ic4K0U",
+      "flags": {},
+      "type": 0,
+      "text": "Gain the antipathy effects of the antipathy/sympathy spell for 3d6 days.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        89,
+        89
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "BaOtM6lIZjuQDarD",
+      "flags": {},
+      "type": 0,
+      "text": "All creatures within 30 feet of you must make a Wisdom saving throw. Any creature immune to magical sleep automatically succeeds on its saving throw. Those that fail fall asleep for 1d6 minutes.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        90,
+        90
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "SSHq5mo13fuLgXZv",
+      "flags": {},
+      "type": 0,
+      "text": "You are protected from Plants for 1 day. Such creatures cannot attack you or harm you unless they succeed on a Charisma saving throw against your spell save DC.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        91,
+        91
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Ypx7SVYBETgR1uOl",
+      "flags": {},
+      "type": 0,
+      "text": "You transform into a medium-sized potted plant for 1 minute, during which time you are considered petrified.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        92,
+        92
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "nzmONVYSF97P2moE",
+      "flags": {},
+      "type": 0,
+      "text": "The next time you fall below 0 hit points within the next month, you automatically fail your first death saving throw.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        93,
+        93
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YRWjMqGdoFNPtmN3",
+      "flags": {},
+      "type": 0,
+      "text": "You gain two spell slots at your second-highest level for 1 week.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        94,
+        94
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "sZOL6e335eMXpL35",
+      "flags": {},
+      "type": 0,
+      "text": "For the next day, any time you make an ability check, roll 1d6 and add the result.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        95,
+        95
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "2P8yBo5Uk7r5N0nu",
+      "flags": {},
+      "type": 0,
+      "text": "Make a Wisdom saving throw against your spell save DC. If you fail, you are transformed into a sheep for 1 minute, as if by the polymorph spell.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        96,
+        96
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "w1eVxzdPcDX8ZstK",
+      "flags": {},
+      "type": 0,
+      "text": "All allies within 30 feet of you gain a -2 penalty to their AC for 1 minute.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        97,
+        97
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "EfqgeFmcJcVtOr97",
+      "flags": {},
+      "type": 0,
+      "text": "You are protected from Undead for 1 day. Such creatures cannot attack you or harm you unless they succeed on a Charisma saving throw against your spell save DC.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        98,
+        98
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "zSGnjPpQX6R4M5nI",
+      "flags": {},
+      "type": 0,
+      "text": "You jump forward in time exactly 1 minute, for 1 minute. From the perspective of everyone else, you cease to exist during that time.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        99,
+        99
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "U05y4Vn5amM4u9IT",
+      "flags": {},
+      "type": 0,
+      "text": "All spells you cast within the next minute automatically fail.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        100,
+        100
+      ],
+      "drawn": false
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "_id": "GcscXFVy9I4YBorA"
+}

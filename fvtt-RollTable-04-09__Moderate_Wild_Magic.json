@@ -1,0 +1,1420 @@
+{
+  "name": "04-09: Moderate Wild Magic",
+  "sort": 400001,
+  "flags": {
+    "exportSource": {
+      "world": "ept5e",
+      "system": "dnd5e",
+      "coreVersion": "0.7.9",
+      "systemVersion": "1.2.4"
+    }
+  },
+  "img": "icons/svg/d20-grey.svg",
+  "description": "4-9: Moderate Wild Magic Table",
+  "results": [
+    {
+      "_id": "VD91vWXB3lkQHddt",
+      "flags": {},
+      "type": 0,
+      "text": "For the next day, your skin tone changes color every 30 minutes, cycling through the colors of the rainbow.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "A2KMM28aj5x6VHaA",
+      "flags": {},
+      "type": 0,
+      "text": "You are confused for 1 minute, as though you were affected by the confusion spell.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "OJdqijXj28a0itmz",
+      "flags": {},
+      "type": 0,
+      "text": "Your Strength is increased by 2 for 1 day.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "KQE8nTSjGhvvhm7E",
+      "flags": {},
+      "type": 0,
+      "text": "A third eye appears in your forehead, giving you advantage on sight-based Wisdom (Perception) checks for 1 minute.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "2Gh3rCUeAKX99egk",
+      "flags": {},
+      "type": 0,
+      "text": "The next spell you cast within the next minute that does damage, the damage is maximized.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "0ZSI1q0Ta62x3jVI",
+      "flags": {},
+      "type": 0,
+      "text": "For the next minute, you can teleport up to 20 feet as part of your movement on each of your turns.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "aKDh8IY3fMQMh6BE",
+      "flags": {},
+      "type": 0,
+      "text": "You become intoxicated for 2d6 hours.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "FsrWPKShiCufFVmw",
+      "flags": {},
+      "type": 0,
+      "text": "Your Intelligence is decreased by 2 for 1 day.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "LASpaqX6NrlHAQEg",
+      "flags": {},
+      "type": 0,
+      "text": "Your Wisdom is increased by 2 for 1 day.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ylYG00FrVK73RjTd",
+      "flags": {},
+      "type": 0,
+      "text": "For 1 minute, any flammable item you touch, that you aren't already wearing or carrying, bursts into flame.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "DFLMeyVX8zb0mfQ6",
+      "flags": {},
+      "type": 0,
+      "text": "Plants grow around you and you are restrained for 1 minute.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "u8Eb8aRvlu08LKU7",
+      "flags": {},
+      "type": 0,
+      "text": "A random creature within 30 feet of you gains a flying speed equal to its walking speed for 1 minute.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "UzRYrfmIWCzgrmw1",
+      "flags": {},
+      "type": 0,
+      "text": "You may immediately take 1 additional action.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "cMtlNMnyuWM1ZhHp",
+      "flags": {},
+      "type": 0,
+      "text": "If you fall within the next day, you automatically have the benefit of the feather fall spell.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "1kn7cHsJeAtGikDA",
+      "flags": {},
+      "type": 0,
+      "text": "You recover 1 expended spell slot of your choice.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "4pDiqhYefdscct4f",
+      "flags": {},
+      "type": 0,
+      "text": "For the next spell you cast within 1 minute that does damage, the damage is minimized.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Xb1B8ZP1AszekLUt",
+      "flags": {},
+      "type": 0,
+      "text": "You have are surrounded by a spectral shield for 1 minute, giving you a +2 bonus to your AC and immunity to magic missile.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NK1s9KlbC2hRufG8",
+      "flags": {},
+      "type": 0,
+      "text": "You and all creatures within 30 feet of you gain vulnerability to piercing damage for 1 minute.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Y0qVG5huhe1hTKZp",
+      "flags": {},
+      "type": 0,
+      "text": "For 1 minute, you gain resistance to nonmagical bludgeoning, piercing, and slashing damage.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "4WzVTDh61gUgpyrI",
+      "flags": {},
+      "type": 0,
+      "text": "You are protected from Elementals for 1 hour. Such reatures cannot attack you or harm you unless they succeed on a Charisma saving throw against your spell save DC.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "FIQj4a9JNeV7ufe9",
+      "flags": {},
+      "type": 0,
+      "text": "For the next minute, one creature of your choice gets a -2 penalty to its AC, attack rolls, and damage rolls.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "0MSlZbyQtPhya48x",
+      "flags": {},
+      "type": 0,
+      "text": "You and all creatures within 30 feet of you gain vulnerability to bludgeoning damage for 1 minute.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "mCtuxKv9IxCa7J96",
+      "flags": {},
+      "type": 0,
+      "text": "You emanate light in a 30-foot radius for 1 minute. Any creature within 5 feet of you that can see is blinded until the end of its next.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "3xBl7FjCC4GnzsXq",
+      "flags": {},
+      "type": 0,
+      "text": "For the next hour, you gain advantage on Charisma checks when dealing with any creature wearing black, but disadvantage if they are wearing white. If they are wearing both, this doesn't apply.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Fh8hJrDUDWEzupfQ",
+      "flags": {},
+      "type": 0,
+      "text": "You are protected from Plants for 1 hour. Such creatures cannot attack you or harm you unless they succeed on a Charisma saving throw against your spell save DC.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Vq6XSvhqnyVkTOO7",
+      "flags": {},
+      "type": 0,
+      "text": "Your Intelligence is increased by 2 for 1 day.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "TXo5Fy7HVX6WJiuG",
+      "flags": {},
+      "type": 0,
+      "text": "Within the next hour, you have advantage on the next roll you make where you don't already have advantage.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "XblR6yYiflaGGrAH",
+      "flags": {},
+      "type": 0,
+      "text": "You gain a +2 bonus to your AC for 1 minute.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NmQOqURbuew7TSD2",
+      "flags": {},
+      "type": 0,
+      "text": "For the next minute, you are in the Border Ethereal near the location you were last in.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Bubr2n3PHpTThVOo",
+      "flags": {},
+      "type": 0,
+      "text": "For the next minute, you gain resistance to thunder and force damage.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "rEfsGkyED9twJEqV",
+      "flags": {},
+      "type": 0,
+      "text": "An imp appears within 30 feet of you. Make a Charisma saving throw against your spell save DC. If you succeed it, the imp is subservient, otherwise, it is hostile. The imp, if not banished or defeated, vanishes after 1 day.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "0BxZlaC433AKmBFd",
+      "flags": {},
+      "type": 0,
+      "text": "For the next minute, you gain resistance to fire and cold damage.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "cwge4ICcEOROvDLY",
+      "flags": {},
+      "type": 0,
+      "text": "For the next hour, you gain advantage on Charisma checks when dealing with any creature wearing red, but disadvantage if they are wearing green. If they are wearing both, this doesn't apply.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "FKUzPOhzhtdSEekF",
+      "flags": {},
+      "type": 0,
+      "text": "You gain the service of an arcane eye for 1 minute that does not require concentration.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "cRW9x9pHNsArocmz",
+      "flags": {},
+      "type": 0,
+      "text": "You lose the ability to smell for 1 day.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "pnIe47ald9219KHc",
+      "flags": {},
+      "type": 0,
+      "text": "You gain a -2 penalty to your AC for 1 minute.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "0Br4EBj58Tim47NF",
+      "flags": {},
+      "type": 0,
+      "text": "You and all creatures within 30 feet of you gain vulnerability to necrotic damage for 1 minute.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        37,
+        37
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "WMVrfDf6IKvlFzxA",
+      "flags": {},
+      "type": 0,
+      "text": "You become invisible and silent for 1 minute.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        38,
+        38
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "WEeYtuYULvCqwMsb",
+      "flags": {},
+      "type": 0,
+      "text": "Your Dexterity is increased by 2 for 1 day.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        39,
+        39
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "heWP1oTWXHmO9skg",
+      "flags": {},
+      "type": 0,
+      "text": "You can detect the thoughts of 1 creature you can see within 30 feet of you for 1 minute.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        40,
+        40
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "iTX3EOq2ns5BsHvs",
+      "flags": {},
+      "type": 0,
+      "text": "For the next minute, all melee attacks you make with a non-magical weapon gain a +1 bonus to hit and to damage, and are considered magical for the purpose of overcoming resistances.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        41,
+        41
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "IEhmPrL9qeG4J80Z",
+      "flags": {},
+      "type": 0,
+      "text": "Your Strength is decreased by 2 for 1 hour.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        42,
+        42
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "vaz69H3cF5zj6qTB",
+      "flags": {},
+      "type": 0,
+      "text": "You gain freedom of movement for 1 day.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        43,
+        43
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "r5iIr7sIhvxpyEJi",
+      "flags": {},
+      "type": 0,
+      "text": "Your Dexterity is decreased by 2 for 1 hour.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        44,
+        44
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "0RaAICcA07uUmLne",
+      "flags": {},
+      "type": 0,
+      "text": "You are affected by a faerie fire spell for 1 minute. You automatically fail the saving throw.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        45,
+        45
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "FxCsOd9FOx1zNjqt",
+      "flags": {},
+      "type": 0,
+      "text": "You are protected from Beasts for 1 hour. Such creatures cannot attack you or harm you unless they succeed a Charisma saving throw against your spell save DC.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        46,
+        46
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "lXSiyys5arTOlMa2",
+      "flags": {},
+      "type": 0,
+      "text": "3d6 gold pieces appear near you.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        47,
+        47
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "zVNDX0kJdhryVLOl",
+      "flags": {},
+      "type": 0,
+      "text": "For 2d6 hours, you have a faint pink glow. Anyone trying to perceive you has advantage on their Perception check.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        48,
+        48
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "HZhGXcnONYxRWcn8",
+      "flags": {},
+      "type": 0,
+      "text": "You gain the ability to breath water for 1 day.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        49,
+        49
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "vn5aviHRaIKzn5dH",
+      "flags": {},
+      "type": 0,
+      "text": "You and all creatures within 30 feet of you gain vulnerability to slashing damage for 1 minute.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        50,
+        50
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "bMvD2gsVAUKnzMD5",
+      "flags": {},
+      "type": 0,
+      "text": "For the next minute, light and darkness quickly alternate around you in a 30-foot radius, creating a strobe effect. Sight-based creatures gain a -1 penalty on attack rolls against you and Perception checks against you, and you gain a +1 bonus to Stealth checks.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        51,
+        51
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "F9bbhdvqKOMzJ0Oa",
+      "flags": {},
+      "type": 0,
+      "text": "All creatures within 20 feet of you must make a Strength saving throw against your spell save DC or be knocked prone.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        52,
+        52
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "4BLWmuMNtVyQMOxb",
+      "flags": {},
+      "type": 0,
+      "text": "You are protected from Undead for one hour. Such creatures cannot attack you or harm you unless they succeed on a Charisma saving throw against your spell save DC.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        53,
+        53
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "7CCoSFjVoMAtJehf",
+      "flags": {},
+      "type": 0,
+      "text": "For the next minute, you can pass through any solid, non-magical wall that is 6 or fewer inches thick.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        54,
+        54
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "6HpvQowvoNG483yw",
+      "flags": {},
+      "type": 0,
+      "text": "You are protected from Fiends for one hour. Such creatures cannot attack you or harm you unless they succeed on a Charisma save against your spell save DC.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        55,
+        55
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "kznPE46Ky6gGo2Yu",
+      "flags": {},
+      "type": 0,
+      "text": "You permanently gain one 1st-level spell slot but forget one cantrip that you already know. A spell such as remove curse can end this effect.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        56,
+        56
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "mNCLc7PnFA3lWEcY",
+      "flags": {},
+      "type": 0,
+      "text": "You immediately gain 15 temporary hit points.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        57,
+        57
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "W8ga5oN6j8dx0YjB",
+      "flags": {},
+      "type": 0,
+      "text": "All gold you are carrying is now silver.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        58,
+        58
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "c6L2id22jVyjlA7V",
+      "flags": {},
+      "type": 0,
+      "text": "For the next minute, you gain resistance to necrotic and radiant damage.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        59,
+        59
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "DiZxZDsR5YoSwJXB",
+      "flags": {},
+      "type": 0,
+      "text": "You are at the center of a fog spell which lasts for 1 minute.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        60,
+        60
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "njJEvsLJaabrhGeP",
+      "flags": {},
+      "type": 0,
+      "text": "Your Charisma is increased by 2 for 1 day.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        61,
+        61
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "xwhwrhEohopY2cQV",
+      "flags": {},
+      "type": 0,
+      "text": "You and all creatures within 30 feet of you gain vulnerability to lightning damage for 1 minute.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        62,
+        62
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "UPcAyub0Kq5pfaP1",
+      "flags": {},
+      "type": 0,
+      "text": "You and all creatures within 30 feet of you gain vulnerability to force damage for 1 minute.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        63,
+        63
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "0fgngj9IH9L6Udfz",
+      "flags": {},
+      "type": 0,
+      "text": "For the next minute, any creature you touch takes 2d6 lightning damage.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        64,
+        64
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ceErJleTPXn7vNxN",
+      "flags": {},
+      "type": 0,
+      "text": "You gain blindsight with a radius of 60 feet for 1 minute.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        65,
+        65
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Bu8Bjk8S0byqESuj",
+      "flags": {},
+      "type": 0,
+      "text": "You are surrounded by a horrible, noxious odor for 1 minute. Anyone within 10 feet of you must make a Constitution saving throw or be stunned.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        66,
+        66
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "HczNbxV7aOLErirM",
+      "flags": {},
+      "type": 0,
+      "text": "Your Charisma is decreased by 2 for 1 hour.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        67,
+        67
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "pViXssAxEDfqu2w5",
+      "flags": {},
+      "type": 0,
+      "text": "You gain the service of a phantom steed for 1 day.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        68,
+        68
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "LvpI8adrB4VRimss",
+      "flags": {},
+      "type": 0,
+      "text": "You and all creatures within 30 feet of you gain vulnerability to acid damage for 1 minute.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        69,
+        69
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "G65KC5QNMz8zsoIx",
+      "flags": {},
+      "type": 0,
+      "text": "Your Wisdom is decreased by 2 for 1 hour.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        70,
+        70
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "USrHCyQaii9z2iCP",
+      "flags": {},
+      "type": 0,
+      "text": "Your speed is increased by 10 feet for 1 day.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        71,
+        71
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "7OTtJighbljppMux",
+      "flags": {},
+      "type": 0,
+      "text": "You gain the ability to walk on water for 1 day.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        72,
+        72
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "VvEoUAY4HFlzB1Di",
+      "flags": {},
+      "type": 0,
+      "text": "You and all creatures within 30 feet of you gain vulnerability to psychic damage for 1 minute.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        73,
+        73
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "zEpEfNteiOzXrUtx",
+      "flags": {},
+      "type": 0,
+      "text": "One creature of your choice gets a +2 bonus to all attack rolls, damage rolls, and their armor class AC for 1 minute.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        74,
+        74
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "bhJRnRiMrk8mT384",
+      "flags": {},
+      "type": 0,
+      "text": "You lose proficiency in one randomly chosen skill, tool, or weapon type for 2d6 days.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        75,
+        75
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZUWT3R4Qos3zw8A3",
+      "flags": {},
+      "type": 0,
+      "text": "All food and drink within 30 feet of you becomes putrid, spoiled, or rotten. Consuming this food deals 2d6 poison damage and causes the poisoned condition for 1 hour.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        76,
+        76
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "uTG2LwKfipfTobhp",
+      "flags": {},
+      "type": 0,
+      "text": "All silver you are carrying is now copper.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        77,
+        77
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "E2g9d5UaJnmVJNc8",
+      "flags": {},
+      "type": 0,
+      "text": "You and all creatures within 30 feet of you gain vulnerability to fire damage for 1 minute.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        78,
+        78
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "2rNgfg9Pyx2tniLc",
+      "flags": {},
+      "type": 0,
+      "text": "You lose proficiency in all skill rolls for 1d4 hours.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        79,
+        79
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "2QjZhedphfmZcRn3",
+      "flags": {},
+      "type": 0,
+      "text": "You are protected from Fey for one hour. Such creatures cannot attack you or harm you unless they succeed on a Charisma saving throw against your spell save DC.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        80,
+        80
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "bC3i7CER23EuHNQj",
+      "flags": {},
+      "type": 0,
+      "text": "For the next hour, any time you make an ability check, roll 1d6 and subtract the result.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        81,
+        81
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "dbbRMGOWylnCTxPe",
+      "flags": {},
+      "type": 0,
+      "text": "For the next minute, you gain resistance to poison and psychic damage.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        82,
+        82
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "KGLKyHyenXg3mxSm",
+      "flags": {},
+      "type": 0,
+      "text": "You’re feeling lucky. For the next hour, any time you make an ability check, roll 1d6 and add the result.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        83,
+        83
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "uNflaCnymZneEFv7",
+      "flags": {},
+      "type": 0,
+      "text": "You immediately take 2d6 psychic damage.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        84,
+        84
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MqbgQpaWUte2IbG9",
+      "flags": {},
+      "type": 0,
+      "text": "You gain proficiency in one skill of your choice that you're not already proficient in for one hour.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        85,
+        85
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "H2syclqya10VAm4u",
+      "flags": {},
+      "type": 0,
+      "text": "Your Constitution is increased by 2 for 1 day.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        86,
+        86
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Av5bPe6Kpw2UYXkR",
+      "flags": {},
+      "type": 0,
+      "text": "You and all creatures within 30 feet of you gain vulnerability to thunder damage for 1 minute.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        87,
+        87
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "L1nvIguzpVCUdaGU",
+      "flags": {},
+      "type": 0,
+      "text": "You and all creatures within 30 feet of you gain vulnerability to cold damage for 1 minute.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        88,
+        88
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "D7bGqHpoD5349lx9",
+      "flags": {},
+      "type": 0,
+      "text": "You gain the ability to speak one language of your choice for 1 day.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        89,
+        89
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "3kziavmhUI2LcFKh",
+      "flags": {},
+      "type": 0,
+      "text": "You and all creatures within 30 feet of you gain vulnerability to radiant damage for 1 minute.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        90,
+        90
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "DcRxUbL4Jrl9Wg5c",
+      "flags": {},
+      "type": 0,
+      "text": "You are protected from Celestials for 1 hour. Such creatures cannot attack you or harm you unless they succeed a on a Charisma saving throw against your spell save DC.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        91,
+        91
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "wqT6z1jA7gOvQ59o",
+      "flags": {},
+      "type": 0,
+      "text": "For the next minute, you are unable to cast any spell that causes damage of any type.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        92,
+        92
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "XysTxU2X0dF1LpdH",
+      "flags": {},
+      "type": 0,
+      "text": "You gain spider climb for 1 minute, and it does not require concentration to maintain.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        93,
+        93
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "CL0UxfYKXRXqRNks",
+      "flags": {},
+      "type": 0,
+      "text": "You immediately lose all unspent sorcery points and may not regain them until you have finished a long rest.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        94,
+        94
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "lNGRtf9G36hdyhfj",
+      "flags": {},
+      "type": 0,
+      "text": "You and all creatures within 30 feet of you gain vulnerability to poison damage for 1 minute.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        95,
+        95
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MCLOE0eLPju03hS1",
+      "flags": {},
+      "type": 0,
+      "text": "You gain the ability to speak with animals for 1 day.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        96,
+        96
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ocUNWshWFGPJygFA",
+      "flags": {},
+      "type": 0,
+      "text": "All food and drink within 30 feet of you is purified.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        97,
+        97
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "FcSd5RHcSvriloUP",
+      "flags": {},
+      "type": 0,
+      "text": "You are protected from Aberrations for 1 hour. Such creatures cannot attack you or harm you unless they succeed on a Charisma savinng throw against your spell save DC.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        98,
+        98
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "kvdcDOxMJ0mwXGGR",
+      "flags": {},
+      "type": 0,
+      "text": "All your clothing and equipment teleports to the nearest open space at least 15 feet from you that you can see.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        99,
+        99
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "B9gQWudLEiTRJMKe",
+      "flags": {},
+      "type": 0,
+      "text": "Your Constitution is decreased by 2 for 1 hour.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        100,
+        100
+      ],
+      "drawn": false
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "_id": "l0fLZGG27T6GjJKd"
+}
