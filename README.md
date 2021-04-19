@@ -15,7 +15,7 @@ go into each Rolltable and uncheck "Display Roll to Chat?"
 
 **Resolution:** add the tables if the entry is blank
 
-**Result Type | Result Details | | Weight | Range**
+**Result Type | Result Details | [table name] | Weight | Range**
 
 Entry | RollTable | 01-03: Extreme Wild Magic | 3 | 1-3
 
